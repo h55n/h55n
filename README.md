@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassan Nafisur Rehman</h1>
-<h3 align="center">Aspiring Data Analyst | Analytics & Applied AI</h3>
+<h3 align="center"> Data Analyst | Analytics & Applied AI</h3>
 
 <p align="center">
 🎓 Bachelor of Engineering (B.E.) in Artificial Intelligence & Data Science  
