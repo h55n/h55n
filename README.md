@@ -1,118 +1,79 @@
-<h1 align="center">Hi 👋, I'm Hassan Nafisur Rehman</h1>
-<h3 align="center"> Data Analyst | Analytics & Applied AI</h3>
+<h1 align="center">Hassan Rehman</h1>
+<h3 align="center">Builder at the intersection of AI, product, and creative media</h3>
 
 <p align="center">
-🎓 Bachelor of Engineering (B.E.) in Artificial Intelligence & Data Science  
+B.E. in Artificial Intelligence & Data Science · Zeal College of Engineering · Pune, India
 <br/>
-📍 Pune, India | 🌍 Open to Remote Opportunities
+Open to remote work · Open to interesting problems
 </p>
 
 ---
 
-## 👨‍💻 About Me
+Most "AI students" learn about AI.
 
-I am a **data-driven analyst** with strong foundations in **SQL, Python, Power BI, and statistics**, experienced in building **end-to-end analytics solutions**.  
-I focus on translating **complex datasets into actionable business insights** through analysis, visualization, experimentation, and forecasting.
+I build with it.
 
----
+I've shipped a lofi pixel art companion app powered by Mistral, an AI legal guidance platform for Indian users, and an emotional wellbeing product with a Three.js procedural room and a Claude-based companion. When I'm not coding, I'm editing video, designing in Canva, or training custom Claude Code skills from scratch.
 
-## 🚀 What I Do
-
-- Analyze **customer behavior, retention, and churn patterns**
-- Perform **funnel analysis and A/B testing** to support product decisions
-- Build **interactive dashboards** using Power BI
-- Develop **revenue forecasts and growth insights**
-- Design and deploy **AI-powered products** with real-world use cases
+The thread connecting everything: I care about how things *feel*, not just how they *function*.
 
 ---
 
-## 🛠️ Technical Skills
+## What I'm Building
 
-### 💻 Programming & Querying
-- Python
-- SQL (Joins, CTEs, Window Functions)
+**fumii** — A lofi pixel art companion web app. React + Vite, Mistral API, Firebase, Capacitor for Android. Four AI-generated ambient scenes. An animated companion character with emotion sprites and outfit variants. Two modes: Chill and Focus. It's the kind of app I wanted to use and couldn't find.
 
-### 📊 Data Analysis & Machine Learning
-- Pandas
-- NumPy
-- Statistics
-- scikit-learn
+**Leagle** — AI-powered legal assistant simplifying Indian legal information. LLM-based chatbot, structured legal data sources, designed for accessibility and privacy-aware responses.
 
-### 📈 Visualization & BI
-- Power BI
-- Matplotlib
-- Seaborn
+**Stillpoint** — Emotional wellbeing app concept. Three.js procedural 3D room, Firebase backend, Claude API companion. Full PRD, architecture, and dev plan built out.
 
-### ⚙️ Tools & Platforms
-- Excel
-- Google Sheets
-- MySQL
-- Git
-- GitHub
-
-### 📚 Analytics Concepts
-- A/B Testing
-- Funnel Analysis
-- Customer Retention & Churn
-- Revenue Forecasting
+**Claude Code Skills** — Custom `/writing-god` and `/godlevel-cold-email` skills synthesizing frameworks from Ogilvy, Halbert, Schwartz, Hormozi, and others. Built as reusable agent tools.
 
 ---
 
-## 📌 Featured Projects
+## What I Know
 
-### 🔹 Customer Retention & Churn Analysis
-- Analyzed e-commerce customer data to identify churn drivers and repeat purchase behavior
-- Built SQL cohort and retention views using CTEs and window functions
-- Designed Power BI dashboards with cohort heatmaps and retention trends
-- Delivered insights to support customer lifetime value (CLV) optimization
+**Code & Data**
+Python · SQL (CTEs, Window Functions, Joins) · React · JavaScript · HTML5 Canvas · Phaser.js
 
-### 🔹 Product Funnel & A/B Testing Analysis
-- Evaluated multi-step funnels to identify high-impact drop-off stages
-- Compared control vs treatment groups using conversion rates and lift analysis
-- Assessed statistical significance to guide product rollout decisions
+**AI & ML**
+Mistral API · Claude API · Prompt Engineering · Fine-tuning pipelines · scikit-learn · Pandas · NumPy
 
-### 🔹 Revenue Forecasting & Demand Planning
-- Built monthly revenue forecasts using historical order and payment data
-- Applied time-series models and evaluated accuracy using MAPE and MAE
-- Created dashboards for actual vs forecast revenue and growth tracking
+**Analytics**
+Power BI · Matplotlib · Seaborn · A/B Testing · Funnel Analysis · Cohort Analysis · Revenue Forecasting
 
-### 🔹 Leagle – AI-Powered Legal Assistant
-- Built an AI-driven legal guidance platform simplifying Indian legal information
-- Integrated LLM-based chatbot with structured legal data sources
-- Focused on accessibility, explainability, and privacy-aware AI design
+**Creative Tools**
+Premiere Pro · After Effects (learning) · Photoshop · Canva · ImageFX · Veo 3
+
+**Infra & Platforms**
+Firebase · Vercel · Git · MySQL · Capacitor · Google Sheets
 
 ---
 
-## 💼 Experience
+## Experience
 
-### Operations Management Intern – SalesMonk.ai
-- Worked with internal dashboards, reporting, and operational metrics
-- Supported process optimization through data-driven insights
+**Operations Management Intern · SalesMonk.ai**
+Internal dashboards, operational metrics, process optimization through data analysis.
 
-### Video Editor & Marketing Intern – Jivika.ai
-- Analyzed marketing campaign performance and content engagement metrics
-- Supported data-backed content strategy and growth initiatives
+**Video Editor & Marketing Intern · Jivika.ai**
+Content strategy backed by campaign performance data. Built and edited content that moved numbers.
 
 ---
 
-## 🏆 Achievements & Certifications
+## Recognitions
 
-- I-HACK 2025 – IIT Bombay
-- E-Summit – IIT Bombay
-- EUREKA 2024
-- Google Solution Challenge (GDG)
-- Google Gen AI Certification
-- Responsible AI – Google Cloud
-- NLP & Data Analytics Certifications
+I-HACK 2025 · IIT Bombay · E-Summit · IIT Bombay · EUREKA 2024 · Google Solution Challenge (GDG)
+
+Google Gen AI Certification · Responsible AI (Google Cloud) · NLP & Data Analytics Certifications
 
 ---
 
-## 📫 Connect With Me
+## Connect
 
-- **LinkedIn:** https://www.linkedin.com/in/hassan-rehman-aab6a1336  
-- **GitHub:** https://github.com/h55n  
-- **Email:** hassan0rehman@gmail.com  
+**LinkedIn:** [hassan-rehman-aab6a1336](https://www.linkedin.com/in/hassan-rehman-aab6a1336)
+**Email:** hassan0rehman@gmail.com
+**GitHub:** you're already here
 
 ---
 
-⭐ If you find my work interesting, feel free to explore the repositories or connect with me.
+*If something in the repos looks interesting, just open it. Most of it started as "I wonder if this works."*
