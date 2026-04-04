@@ -1,79 +1,94 @@
-<h1 align="center">Hassan Rehman</h1>
-<h3 align="center">Builder at the intersection of AI, product, and creative media</h3>
+<div align="center">
 
-<p align="center">
-B.E. in Artificial Intelligence & Data Science · Zeal College of Engineering · Pune, India
-<br/>
-Open to remote work · Open to interesting problems
-</p>
+# Hassan Rehman · `h55n`
 
----
+**AI & Data Science · Builder · Creative Tech**
 
-Most "AI students" learn about AI.
+B.E. Artificial Intelligence & Data Science · Zeal College of Engineering · Pune, India
 
-I build with it.
+`Open to remote` &nbsp;·&nbsp; `Open to interesting problems`
 
-I've shipped a lofi pixel art companion app powered by Mistral, an AI legal guidance platform for Indian users, and an emotional wellbeing product with a Three.js procedural room and a Claude-based companion. When I'm not coding, I'm editing video, designing in Canva, or training custom Claude Code skills from scratch.
-
-The thread connecting everything: I care about how things *feel*, not just how they *function*.
+</div>
 
 ---
 
-## What I'm Building
+Most "AI students" study AI. I build with it — products that ship, not demos that sit in a folder.
 
-**fumii** — A lofi pixel art companion web app. React + Vite, Mistral API, Firebase, Capacitor for Android. Four AI-generated ambient scenes. An animated companion character with emotion sprites and outfit variants. Two modes: Chill and Focus. It's the kind of app I wanted to use and couldn't find.
-
-**Leagle** — AI-powered legal assistant simplifying Indian legal information. LLM-based chatbot, structured legal data sources, designed for accessibility and privacy-aware responses.
-
-**Stillpoint** — Emotional wellbeing app concept. Three.js procedural 3D room, Firebase backend, Claude API companion. Full PRD, architecture, and dev plan built out.
-
-**Claude Code Skills** — Custom `/writing-god` and `/godlevel-cold-email` skills synthesizing frameworks from Ogilvy, Halbert, Schwartz, Hormozi, and others. Built as reusable agent tools.
+I sit at the intersection of analytics, product thinking, and creative media. The throughline in everything I make: I care how things *feel*, not just whether they *function*.
 
 ---
 
-## What I Know
+## ⚡ Building
 
-**Code & Data**
-Python · SQL (CTEs, Window Functions, Joins) · React · JavaScript · HTML5 Canvas · Phaser.js
-
-**AI & ML**
-Mistral API · Claude API · Prompt Engineering · Fine-tuning pipelines · scikit-learn · Pandas · NumPy
-
-**Analytics**
-Power BI · Matplotlib · Seaborn · A/B Testing · Funnel Analysis · Cohort Analysis · Revenue Forecasting
-
-**Creative Tools**
-Premiere Pro · After Effects (learning) · Photoshop · Canva · ImageFX · Veo 3
-
-**Infra & Platforms**
-Firebase · Vercel · Git · MySQL · Capacitor · Google Sheets
+| Project | Stack | What it is |
+|---|---|---|
+| 🌙 **fumii** | React · Vite · Mistral · Firebase · Phaser.js · Capacitor | Lofi pixel art companion app. Animated character with emotion sprites, four ambient scenes, Chill and Focus modes. The app I wanted and couldn't find. |
+| ⚖️ **Leagle** | TypeScript · LLM · Firebase | AI legal assistant for Indian users. Structured legal data, built privacy-first. |
+| 🌿 **Stillpoint** | Three.js · Firebase · AI UX | Emotional wellbeing concept app. Procedural 3D room, AI companion. Full PRD + architecture written. |
+| 🔁 **Agent Skills** | Prompt Engineering · Agent Design | Custom reusable AI agent skills for writing and outreach, synthesized from real copywriting frameworks. |
 
 ---
 
-## Experience
+## 🛠️ Stack
+
+**Code & Interfaces**
+```
+Python   JavaScript   TypeScript   React   HTML/CSS   Node.js   Phaser.js   HTML5 Canvas
+```
+
+**Data & AI**
+```
+Pandas   NumPy   scikit-learn   Power BI   Mistral API   Prompt Engineering   SQL
+MySQL   A/B Testing   Funnel Analysis   Cohort Analysis   Revenue Forecasting
+```
+
+**Infra & Tools**
+```
+Firebase   Vercel   Git   GitHub   Capacitor   Google Sheets   Excel
+```
+
+**Creative**
+```
+Premiere Pro   After Effects   Photoshop   Canva   ImageFX
+```
+
+---
+
+## 💼 Experience
 
 **Operations Management Intern · SalesMonk.ai**
-Internal dashboards, operational metrics, process optimization through data analysis.
+Built internal dashboards and operational metrics. Found patterns in the data that helped the team make faster decisions.
 
 **Video Editor & Marketing Intern · Jivika.ai**
-Content strategy backed by campaign performance data. Built and edited content that moved numbers.
+Content strategy backed by campaign performance data. Made and edited content that moved actual numbers.
 
 ---
 
-## Recognitions
+## 🏆 Recognitions
 
-I-HACK 2025 · IIT Bombay · E-Summit · IIT Bombay · EUREKA 2024 · Google Solution Challenge (GDG)
+<div align="center">
 
-Google Gen AI Certification · Responsible AI (Google Cloud) · NLP & Data Analytics Certifications
+| Hackathons & Events | Certifications |
+|:---:|:---:|
+| I-HACK 2025 · IIT Bombay | Google Gen AI |
+| E-Summit · IIT Bombay | Responsible AI · Google Cloud |
+| EUREKA 2024 | NLP & Data Analytics |
+| Google Solution Challenge · GDG | |
+
+</div>
 
 ---
 
-## Connect
+## 📬 Connect
 
-**LinkedIn:** [hassan-rehman-aab6a1336](https://www.linkedin.com/in/hassan-rehman-aab6a1336)
-**Email:** hassan0rehman@gmail.com
-**GitHub:** you're already here
+<div align="center">
+
+**LinkedIn** → [hassan-rehman-aab6a1336](https://www.linkedin.com/in/hassan-rehman-aab6a1336) &nbsp;·&nbsp; **Email** → [hassan0rehman@gmail.com](mailto:hassan0rehman@gmail.com) &nbsp;·&nbsp; **GitHub** → [h55n](https://github.com/h55n)
+
+</div>
 
 ---
 
-*If something in the repos looks interesting, just open it. Most of it started as "I wonder if this works."*
+<div align="center">
+<sub>If something in the repos looks interesting, just open it. Most of it started as "I wonder if this works."</sub>
+</div>
