@@ -24,7 +24,7 @@ I care about **responsible, guard-railed AI** — systems that know what they do
 
 ### 🚀 Featured Projects
 
-#### 🪨 [SlopeSense](https://github.com/h55n) — Landslide Risk Intelligence Platform
+#### 🪨 [SlopeSense](https://github.com/h55n/slopesense) — Landslide Risk Intelligence Platform
 A real-time early-warning system that fuses **6 independent satellite/weather sources** (NASA GPM, NASA SMAP, ESA Copernicus DEM, Sentinel-2, NOAA GFS) into a probabilistic **Failure Probability Index (FPI)**, computed at **1 km² resolution** and refreshed every 6 hours with 24–48 hour forward forecasting.
 
 - Physics-based risk model derived from **NASA LHASA v2**, calibrated with a **LightGBM** classifier and validated against 6 historic landslide events — **6/6 correctly flagged**
@@ -35,7 +35,7 @@ A real-time early-warning system that fuses **6 independent satellite/weather so
 
 > Built to close the gap that cost 420 lives in the 2024 Wayanad disaster — a warning existed 16 hours prior but never reached the right channel. SlopeSense wires the model directly into the alert channel.
 
-#### 🌊 [River Watch](https://github.com/h55n) — Satellite Anomaly Detection for Illegal Sand Mining
+#### 🌊 [River Watch](https://github.com/h55n/river-watch) — Satellite Anomaly Detection for Illegal Sand Mining
 A dual-signal remote-sensing system that surfaces dated, defensible *anomalies* — never confirmed violations — along 4 monitored river hotspots (Chambal, Yamuna, Ken, Ganga), built for human-in-the-loop review by journalists, NGOs, and lawyers.
 
 - **Sentinel-1 SAR** backscatter log-ratio change detection (`10·log10(incident/baseline)`, +3dB threshold) — works through cloud cover and at night
@@ -44,7 +44,7 @@ A dual-signal remote-sensing system that surfaces dated, defensible *anomalies* 
 - Evidence-card **PDF/JSON export** pipeline for legal and journalistic use; static JS/HTML dashboard with 30s auto-polling plus a Streamlit interface
 - **21 passing unit tests**; guardrails baked into the design — never claim "confirmed illegal," never fabricate numbers, always require human review
 
-#### 🤖 [fumii](https://github.com/h55n) — AI Companion (Hardware + Desktop App)
+#### 🤖 [fumii](https://github.com/h55n/fumii) — AI Companion (Hardware + Desktop App)
 *IEEE CodeBhoomi 2026 — Top 10 National Finalist, Agentic Autonomous Systems track.*
 A palm-sized AI companion built around persistent memory and warmth instead of transactional Q&A.
 
@@ -54,7 +54,7 @@ A palm-sized AI companion built around persistent memory and warmth instead of t
 - **Token-by-token streaming** over IPC from Electron's main process to renderer, driving a 9-state sentiment-aware sprite animation system
 - Privacy-by-design: `better-sqlite3` local-only storage, strict `contextIsolation` + `sandbox: true`, no Node integration in the renderer
 
-#### 💬 [DeTalks](https://github.com/h55n) — Multi-Agent Mental Wellness Platform
+#### 💬 [DeTalks](https://github.com/h55n/detalks) — Multi-Agent Mental Wellness Platform
 *IEEE CodeBhoomi 2026 — Top 10 National Finalist.*
 A three-tier mental wellness platform (self-guided tools → anonymous peer support → licensed therapy), explicitly engineered against unhealthy parasocial dependency.
 
@@ -62,20 +62,20 @@ A three-tier mental wellness platform (self-guided tools → anonymous peer supp
 - Kavach generates structured post-session learning briefs for student companions and warm-handoff summaries for licensed psychologists
 - A concrete example of designing **safety-critical, role-separated multi-agent systems** rather than a single monolithic chatbot
 
-#### 🎙️ [Mike](https://github.com/h55n) — AI Voice Dictation Tool
+#### 🎙️ [Mike](https://github.com/h55n/mike) — AI Voice Dictation Tool
 A Windows system-tray app for global voice dictation, transcribing speech to text anywhere on the OS.
 
 - **Groq Whisper API** for near-instant ASR (**<500ms**), with an additional LLM polishing pass (Groq LLaMA) across three configurable output modes: Raw / Semi-formal / Polished
 - Custom voice-activity detection (RMS threshold filtering) and a symbol-expansion text-normalization layer
 - Python state-machine core orchestrating mic capture, global hotkeys, a PyQt6 dashboard, and `pyautogui` keystroke injection — packaged into a single self-contained Windows executable via PyInstaller
 
-#### 📰 [EvrythingAI](https://github.com/h55n) — Automated AI/Tech Newsletter Pipeline
+#### 📰 [EvrythingAI](https://github.com/h55n/evrythingai) — Automated AI/Tech Newsletter Pipeline
 A fully automated, zero-infrastructure daily newsletter delivered to each subscriber's local 6am.
 
 - RSS ingestion → **Mistral AI** multi-document curation/summarization across three categories (news, tools/models, funding) → a higher-order "Signal" step that synthesizes cross-category patterns → HTML email delivery
 - Orchestrated by an hourly **GitHub Actions cron** job with timezone-aware logic, **Resend** for transactional email — fully serverless at **$0/month**
 
-#### 🏆 [1ph](https://github.com/h55n) — One Place for Hackathons
+#### 🏆 [1ph](https://github.com/h55n/1ph) — One Place for Hackathons
 A fast, aggregated directory of global and India-specific hackathons.
 
 - **AI enrichment pipeline** (Mistral AI) that extracts structured fields — real deadlines, prize pools, descriptions — from raw hackathon listings: unstructured-to-structured extraction via LLM
@@ -133,14 +133,6 @@ Analyzed marketing campaign performance and content engagement metrics; produced
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h55n&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h55n&theme=tokyonight&hide_border=true" height="165">
-</p>
-
----
 
 ### 📫 Let's Connect
 
