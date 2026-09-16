@@ -1,0 +1,60 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B0F14"/>
+      <stop offset="0.55" stop-color="#10161E"/>
+      <stop offset="1" stop-color="#0B0F14"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="830" y1="70" x2="1090" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFB55B"/>
+      <stop offset="0.55" stop-color="#F17939"/>
+      <stop offset="1" stop-color="#7D3DF1"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(986 185) rotate(90) scale(190 260)">
+      <stop stop-color="#F17939" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#F17939" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#FFFFFF" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="27" stroke="#FFFFFF" stroke-opacity="0.09"/>
+  <ellipse cx="986" cy="185" rx="260" ry="190" fill="url(#glow)"/>
+
+  <g opacity="0.65">
+    <path d="M805 68C876 36 1006 35 1084 90C1165 147 1135 254 1051 296C969 337 839 315 786 245C737 181 748 94 805 68Z" stroke="url(#accent)" stroke-width="1.5"/>
+    <path d="M836 96C894 65 1005 66 1068 111C1132 158 1110 240 1042 273C976 305 872 289 827 234C786 184 790 119 836 96Z" stroke="#FFFFFF" stroke-opacity="0.1"/>
+    <circle cx="1090" cy="104" r="7" fill="#FFB55B"/>
+    <circle cx="795" cy="226" r="5" fill="#8F5CFF"/>
+    <circle cx="1052" cy="294" r="4" fill="#F17939"/>
+    <path d="M790 228L894 171L972 210L1091 104" stroke="#FFFFFF" stroke-opacity="0.13"/>
+    <path d="M894 171L931 95L1068 111" stroke="#FFFFFF" stroke-opacity="0.09"/>
+  </g>
+
+  <g transform="translate(920 106)">
+    <rect x="0" y="0" width="138" height="138" rx="34" fill="#0D1219" stroke="#FFFFFF" stroke-opacity="0.11"/>
+    <path d="M38 99V39H51V63H86V39H99V99H86V75H51V99H38Z" fill="url(#accent)"/>
+    <circle cx="110" cy="28" r="5" fill="#FFB55B"/>
+  </g>
+
+  <text x="68" y="82" fill="#93A4B8" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="600" letter-spacing="2.5">H55N / HASSAN REHMAN</text>
+  <text x="68" y="146" fill="#F7F9FC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="48" font-weight="750">Ideas → systems → products.</text>
+  <text x="68" y="189" fill="#B5C0CE" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22">I build across AI, applied ML, product engineering, and the strange spaces between them.</text>
+
+  <g transform="translate(68 236)">
+    <rect width="142" height="42" rx="21" fill="#151C25" stroke="#FFFFFF" stroke-opacity="0.09"/>
+    <text x="71" y="27" text-anchor="middle" fill="#E7EBF1" font-family="Inter, ui-sans-serif, system-ui" font-size="15" font-weight="600">agentic systems</text>
+    <rect x="154" width="128" height="42" rx="21" fill="#151C25" stroke="#FFFFFF" stroke-opacity="0.09"/>
+    <text x="218" y="27" text-anchor="middle" fill="#E7EBF1" font-family="Inter, ui-sans-serif, system-ui" font-size="15" font-weight="600">applied ML</text>
+    <rect x="294" width="174" height="42" rx="21" fill="#151C25" stroke="#FFFFFF" stroke-opacity="0.09"/>
+    <text x="381" y="27" text-anchor="middle" fill="#E7EBF1" font-family="Inter, ui-sans-serif, system-ui" font-size="15" font-weight="600">product engineering</text>
+  </g>
+
+  <text x="68" y="324" fill="#667487" font-family="Inter, ui-sans-serif, system-ui" font-size="14">Pune, India  •  github.com/h55n  •  building whatever the idea needs</text>
+</svg>
