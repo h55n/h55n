@@ -11,6 +11,13 @@
 
 I like taking ideas that feel slightly too ambitious and making them real enough to **test, break, and improve**. Most of my work sits somewhere between AI systems, applied ML, full-stack engineering, and product design.
 
+## What I build
+
+- **Agentic systems & memory** — retrieval, MCP tools, persistent context, multi-provider workflows, and deterministic safety boundaries around probabilistic models.
+- **Applied ML & data products** — satellite/weather fusion, anomaly detection, forecasting, validation, and production APIs around models.
+- **Full-stack products** — real-time state, auth, persistence, WebSockets, offline flows, CI/CD, and the product logic that has to survive outside a demo.
+- **Interaction-heavy software** — voice, accessibility, browser 3D, motion, and interfaces where how the system feels matters as much as what it computes.
+
 ## Currently building
 
 <table align="center">
@@ -33,9 +40,21 @@ I like taking ideas that feel slightly too ambitious and making them real enough
   <a href="https://github.com/h55n/small-merchant"><img width="48%" src="./assets/card-small-merchant.svg" alt="Small Merchant — safety-gated agentic commerce" /></a>
 </p>
 
-<p align="center">
-  <sub>Also building: <a href="https://github.com/h55n/mike">Mike</a> · <a href="https://github.com/h55n/shooting-os">Shooting OS</a> · <a href="https://github.com/h55n/river-watch">River Watch</a> · <a href="https://github.com/h55n/orator">Orator</a> · <a href="https://github.com/h55n/1ph">1ph</a> · <a href="https://github.com/h55n/EvrythingAI">EvrythingAI</a></sub>
-</p>
+### The engineering behind them
+
+- **[MNEME](https://github.com/h55n/MNEME)** explores what persistent AI-agent memory should look like when portability, semantic recall, MCP access, attestations, and deletion proofs are treated as infrastructure rather than prompt history.
+- **[Together](https://github.com/h55n/together)** pushes browser-native 3D much further: a persistent multiplayer life simulator with households, homes, jobs, cooking, NPCs, customization, shared history, and voice foundations.
+- **[SlopeSense](https://github.com/h55n/slopesense)** combines satellite and weather signals into a probabilistic landslide-risk pipeline with forecasting, retrospective validation, alert generation, and a production API surface.
+- **[Small Merchant](https://github.com/h55n/small-merchant)** applies agents to commerce while keeping payment permission in deterministic backend code, so model behavior cannot bypass user authorization.
+
+### More engineering
+
+- **[Mike](https://github.com/h55n/mike)** — low-latency Windows voice dictation with Whisper, voice-activity detection, optional LLM cleanup, global hotkeys, and text injection into any app.
+- **[Shooting OS](https://github.com/h55n/shooting-os)** — a focused content operating system for ideation, scripting, planning, research, shooting, offline access, and knowledge-grounded workflows.
+- **[River Watch](https://github.com/h55n/river-watch)** — Sentinel-1/Sentinel-2 anomaly detection for river monitoring, deliberately designed to surface evidence for human review rather than overclaim conclusions.
+- **[Orator](https://github.com/h55n/orator)** — Spring Boot + React interview-preparation system with structured question generation, timed practice, answer evaluation, auth, persistence, and session history.
+- **[1ph](https://github.com/h55n/1ph)** — hackathon discovery and enrichment pipeline combining Next.js, Python automation, structured extraction, and AI-assisted normalization.
+- **[EvrythingAI](https://github.com/h55n/EvrythingAI)** — automated AI/tech newsletter pipeline using RSS ingestion, Mistral-based curation/synthesis, GitHub Actions, and serverless delivery.
 
 ## Selected recognition
 
