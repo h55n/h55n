@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-panel.svg" alt="Hassan Rehman profile panel" width="100%" />
+  <img src="./assets/profile-cover-v2.svg" alt="Hassan Rehman profile cover" width="100%" />
 </p>
 
 <p align="center">
@@ -9,16 +9,33 @@
   <a href="https://github.com/h55n"><img src="https://img.shields.io/badge/github-h55n-0d1117?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
-I build across **AI systems, applied ML, product engineering, and creative interfaces**. Most of my work starts from an idea that feels worth chasing, then turns into a real system with memory, data, safety, interaction design, and product thinking around it.
+I like taking ideas that feel slightly too ambitious and making them real enough to **test, break, and improve**. Most of my work sits somewhere between AI systems, applied ML, full-stack engineering, and product design.
 
-## Open source & engineering
+## Currently building
 
-- Built **[MNEME](https://github.com/h55n/MNEME)**, sovereign memory infrastructure for AI agents with MCP tools, temporal recall, and blockchain-backed attestations.
-- Building **[Together](https://github.com/h55n/together)**, a persistent browser-native multiplayer life simulator with households, homes, jobs, cooking, NPCs, shared history, and voice foundations.
-- Built **[SlopeSense](https://github.com/h55n/slopesense)**, a landslide-risk intelligence platform combining satellite + weather data into a probabilistic alerting system.
-- Built **[Small Merchant](https://github.com/h55n/small-merchant)**, a safety-gated agentic commerce system where payment authorization stays under deterministic backend control.
-- Built **[Mike](https://github.com/h55n/mike)**, a low-latency voice dictation tool for Windows using Whisper + optional LLM cleanup.
-- Built **[Shooting OS](https://github.com/h55n/shooting-os)**, a focused operating system for content ideation, scripting, planning, shooting, and knowledge-grounded workflows.
+<table align="center">
+  <tr>
+    <td align="center" width="190"><b><a href="https://github.com/h55n/together">Together</a></b><br><sub>browser-native multiplayer world</sub><br><sub>performance + world polish</sub></td>
+    <td align="center" width="190"><b><a href="https://github.com/h55n/shooting-os">Shooting OS</a></b><br><sub>single-owner content system</sub><br><sub>product iteration</sub></td>
+    <td align="center" width="190"><b><a href="https://github.com/h55n/slopesense">SlopeSense</a></b><br><sub>geospatial risk intelligence</sub><br><sub>model + alerting refinement</sub></td>
+  </tr>
+</table>
+
+## Flagship work
+
+<p align="center">
+  <a href="https://github.com/h55n/MNEME"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=h55n&repo=MNEME&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=F59E0B" alt="MNEME" /></a>
+  <a href="https://github.com/h55n/together"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=h55n&repo=together&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=F17939" alt="Together" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/h55n/slopesense"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=h55n&repo=slopesense&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=5F8BFF" alt="SlopeSense" /></a>
+  <a href="https://github.com/h55n/small-merchant"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=h55n&repo=small-merchant&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=25C2A0" alt="Small Merchant" /></a>
+</p>
+
+<p align="center">
+  <sub>Also building: <a href="https://github.com/h55n/mike">Mike</a> · <a href="https://github.com/h55n/shooting-os">Shooting OS</a> · <a href="https://github.com/h55n/river-watch">River Watch</a> · <a href="https://github.com/h55n/orator">Orator</a> · <a href="https://github.com/h55n/1ph">1ph</a> · <a href="https://github.com/h55n/EvrythingAI">EvrythingAI</a></sub>
+</p>
 
 ## Selected recognition
 
@@ -45,19 +62,10 @@ I build across **AI systems, applied ML, product engineering, and creative inter
   <code>LLM systems</code> | <code>RAG</code> | <code>MCP</code> | <code>pgvector</code> | <code>agent memory</code> | <code>voice / ASR</code> | <code>geospatial ML</code> | <code>three.js</code> | <code>websockets</code> | <code>CI/CD</code>
 </p>
 
+## Recent activity
+
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/google_earth_engine-4285F4?style=flat-square&logo=googleearth&logoColor=white" />
-  <img src="https://img.shields.io/badge/lightgbm-018577?style=flat-square" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=h55n&bg_color=0d1117&color=8b949e&line=f59e0b&point=f0f6fc&area=true&hide_border=true&custom_title=Recent%20GitHub%20activity" alt="Recent GitHub activity" />
 </p>
 
 ## Visitor counter
