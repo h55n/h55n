@@ -1,0 +1,79 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090D13"/>
+      <stop offset="0.58" stop-color="#0C121A"/>
+      <stop offset="1" stop-color="#090D13"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="830" y1="48" x2="1080" y2="282" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFBC6B"/>
+      <stop offset="0.48" stop-color="#F17939"/>
+      <stop offset="1" stop-color="#7B4DFF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(962 154) rotate(90) scale(150 220)">
+      <stop stop-color="#F17939" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#F17939" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" stroke="#FFFFFF" stroke-opacity="0.025"/>
+    </pattern>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="328" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="328" rx="18" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="328" rx="18" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <circle cx="962" cy="154" r="210" fill="url(#glow)"/>
+
+  <text x="46" y="39" fill="#677487" font-family="Inter,Segoe UI,sans-serif" font-size="15" font-weight="600">h55n / profile</text>
+  <circle cx="1111" cy="34" r="4" fill="#25C2A0"/>
+  <text x="1124" y="39" fill="#677487" font-family="Inter,Segoe UI,sans-serif" font-size="12">building</text>
+
+  <text x="47" y="109" fill="#F6F8FB" font-family="Inter,Segoe UI,sans-serif" font-size="62" font-weight="800" letter-spacing="-2">h55n</text>
+  <text x="49" y="141" fill="#D7DFEA" font-family="Inter,Segoe UI,sans-serif" font-size="18" font-weight="700">AI systems · applied ML · product engineering</text>
+  <text x="49" y="177" fill="#9AA7B6" font-family="Inter,Segoe UI,sans-serif" font-size="14">I get interested in an idea, go deep enough to understand it,</text>
+  <text x="49" y="199" fill="#9AA7B6" font-family="Inter,Segoe UI,sans-serif" font-size="14">then try to build the version I wish already existed.</text>
+
+  <g transform="translate(49 228)">
+    <rect width="86" height="26" rx="13" fill="#131A23" stroke="#FFFFFF" stroke-opacity="0.07"/>
+    <text x="43" y="17" text-anchor="middle" fill="#C7D0DD" font-family="Inter,Segoe UI,sans-serif" font-size="11">agent memory</text>
+    <rect x="96" width="82" height="26" rx="13" fill="#131A23" stroke="#FFFFFF" stroke-opacity="0.07"/>
+    <text x="137" y="17" text-anchor="middle" fill="#C7D0DD" font-family="Inter,Segoe UI,sans-serif" font-size="11">geospatial</text>
+    <rect x="188" width="64" height="26" rx="13" fill="#131A23" stroke="#FFFFFF" stroke-opacity="0.07"/>
+    <text x="220" y="17" text-anchor="middle" fill="#C7D0DD" font-family="Inter,Segoe UI,sans-serif" font-size="11">voice</text>
+    <rect x="262" width="76" height="26" rx="13" fill="#131A23" stroke="#FFFFFF" stroke-opacity="0.07"/>
+    <text x="300" y="17" text-anchor="middle" fill="#C7D0DD" font-family="Inter,Segoe UI,sans-serif" font-size="11">realtime</text>
+    <rect x="348" width="70" height="26" rx="13" fill="#131A23" stroke="#FFFFFF" stroke-opacity="0.07"/>
+    <text x="383" y="17" text-anchor="middle" fill="#C7D0DD" font-family="Inter,Segoe UI,sans-serif" font-size="11">product</text>
+  </g>
+
+  <g transform="translate(49 289)">
+    <circle cx="4" cy="-2" r="4" fill="#FFB55B"/>
+    <text x="14" y="2" fill="#69778A" font-family="Inter,Segoe UI,sans-serif" font-size="11">Pune, India</text>
+    <circle cx="91" cy="-2" r="4" fill="#5F8BFF"/>
+    <text x="101" y="2" fill="#69778A" font-family="Inter,Segoe UI,sans-serif" font-size="11">github.com/h55n</text>
+  </g>
+
+  <g transform="translate(760 48)">
+    <path d="M95 70L190 30L292 88L240 184L130 200L62 142L95 70Z" stroke="#FFFFFF" stroke-opacity="0.09"/>
+    <path d="M190 30L175 118L95 70M175 118L292 88M175 118L240 184M175 118L130 200M175 118L62 142" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <path d="M95 70L240 184M292 88L130 200" stroke="url(#accent)" stroke-opacity="0.44"/>
+
+    <circle cx="95" cy="70" r="8" fill="#0C121A" stroke="#FFB55B" stroke-width="2"/>
+    <circle cx="190" cy="30" r="7" fill="#0C121A" stroke="#7B4DFF" stroke-width="2"/>
+    <circle cx="292" cy="88" r="8" fill="#0C121A" stroke="#5F8BFF" stroke-width="2"/>
+    <circle cx="240" cy="184" r="8" fill="#0C121A" stroke="#25C2A0" stroke-width="2"/>
+    <circle cx="130" cy="200" r="7" fill="#0C121A" stroke="#F17939" stroke-width="2"/>
+    <circle cx="62" cy="142" r="7" fill="#0C121A" stroke="#D8DEE9" stroke-width="2"/>
+
+    <circle cx="175" cy="118" r="39" fill="#101722" stroke="url(#accent)" stroke-width="1.5"/>
+    <text x="175" y="114" text-anchor="middle" fill="#F5F7FA" font-family="Inter,Segoe UI,sans-serif" font-size="17" font-weight="800">H</text>
+    <text x="175" y="133" text-anchor="middle" fill="#8492A6" font-family="Inter,Segoe UI,sans-serif" font-size="9" font-weight="600">h55n</text>
+
+    <text x="73" y="53" fill="#7D8A9C" font-family="Inter,Segoe UI,sans-serif" font-size="9">AGENTS</text>
+    <text x="171" y="14" fill="#7D8A9C" font-family="Inter,Segoe UI,sans-serif" font-size="9">ML</text>
+    <text x="300" y="91" fill="#7D8A9C" font-family="Inter,Segoe UI,sans-serif" font-size="9">3D</text>
+    <text x="245" y="206" fill="#7D8A9C" font-family="Inter,Segoe UI,sans-serif" font-size="9">SYSTEMS</text>
+    <text x="100" y="222" fill="#7D8A9C" font-family="Inter,Segoe UI,sans-serif" font-size="9">VOICE</text>
+    <text x="18" y="145" fill="#7D8A9C" font-family="Inter,Segoe UI,sans-serif" font-size="9">DATA</text>
+  </g>
+</svg>
