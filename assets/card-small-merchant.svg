@@ -1,0 +1,13 @@
+<svg width="560" height="170" viewBox="0 0 560 170" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="558" height="168" rx="14" fill="#0D1117" stroke="#30363D"/>
+  <rect x="1" y="1" width="558" height="3" rx="2" fill="#25C2A0"/>
+  <circle cx="36" cy="39" r="13" fill="#171B22" stroke="#25C2A0"/>
+  <text x="36" y="44" text-anchor="middle" fill="#25C2A0" font-family="Inter,Segoe UI,sans-serif" font-size="13" font-weight="800">S</text>
+  <text x="59" y="34" fill="#F0F6FC" font-family="Inter,Segoe UI,sans-serif" font-size="20" font-weight="800">Small Merchant</text>
+  <text x="59" y="53" fill="#8B949E" font-family="Inter,Segoe UI,sans-serif" font-size="11" font-weight="600">SAFETY-GATED AGENTIC COMMERCE</text>
+  <text x="24" y="84" fill="#C9D1D9" font-family="Inter,Segoe UI,sans-serif" font-size="12">AI-native merchant discovery and buying workflows with</text>
+  <text x="24" y="102" fill="#C9D1D9" font-family="Inter,Segoe UI,sans-serif" font-size="12">deterministic payment authorization the model cannot bypass.</text>
+  <text x="24" y="133" fill="#8B949E" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10">FastAPI · React · Embeddings · Razorpay MCP · WebSockets</text>
+  <rect x="406" y="126" width="129" height="24" rx="12" fill="#171B22" stroke="#25C2A0" stroke-opacity="0.55"/>
+  <text x="470" y="142" text-anchor="middle" fill="#25C2A0" font-family="Inter,Segoe UI,sans-serif" font-size="10" font-weight="800">SAFETY-FIRST</text>
+</svg>
