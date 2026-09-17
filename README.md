@@ -24,13 +24,13 @@ I like taking ideas that feel slightly too ambitious and making them real enough
 ## Flagship work
 
 <p align="center">
-  <a href="https://github.com/h55n/MNEME"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=h55n&repo=MNEME&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=F59E0B" alt="MNEME" /></a>
-  <a href="https://github.com/h55n/together"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=h55n&repo=together&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=F17939" alt="Together" /></a>
+  <a href="https://github.com/h55n/MNEME"><img width="48%" src="./assets/card-mneme.svg" alt="MNEME — sovereign memory for AI agents" /></a>
+  <a href="https://github.com/h55n/together"><img width="48%" src="./assets/card-together.svg" alt="Together — browser-native multiplayer life simulator" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/h55n/slopesense"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=h55n&repo=slopesense&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=5F8BFF" alt="SlopeSense" /></a>
-  <a href="https://github.com/h55n/small-merchant"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=h55n&repo=small-merchant&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=25C2A0" alt="Small Merchant" /></a>
+  <a href="https://github.com/h55n/slopesense"><img width="48%" src="./assets/card-slopesense.svg" alt="SlopeSense — landslide risk intelligence" /></a>
+  <a href="https://github.com/h55n/small-merchant"><img width="48%" src="./assets/card-small-merchant.svg" alt="Small Merchant — safety-gated agentic commerce" /></a>
 </p>
 
 <p align="center">
@@ -60,12 +60,6 @@ I like taking ideas that feel slightly too ambitious and making them real enough
 
 <p align="center">
   <code>LLM systems</code> | <code>RAG</code> | <code>MCP</code> | <code>pgvector</code> | <code>agent memory</code> | <code>voice / ASR</code> | <code>geospatial ML</code> | <code>three.js</code> | <code>websockets</code> | <code>CI/CD</code>
-</p>
-
-## Recent activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=h55n&bg_color=0d1117&color=8b949e&line=f59e0b&point=f0f6fc&area=true&hide_border=true&custom_title=Recent%20GitHub%20activity" alt="Recent GitHub activity" />
 </p>
 
 ## Visitor counter
