@@ -11,35 +11,29 @@
 
 I build across **AI systems, applied ML, product engineering, and creative interfaces**. Most of my work starts from an idea that feels worth chasing, then turns into a real system with memory, data, safety, interaction design, and product thinking around it.
 
-## Open source, engineering & recognition
+## Open source & engineering
 
-- Built **[MNEME](https://github.com/h55n/MNEME)**, sovereign memory infrastructure for AI agents with MCP tools, temporal recall, and blockchain-backed attestations.  
-  **Monad Blitz Pune V2 - Winner**
+- Built **[MNEME](https://github.com/h55n/MNEME)**, sovereign memory infrastructure for AI agents with MCP tools, temporal recall, and blockchain-backed attestations.
 - Building **[Together](https://github.com/h55n/together)**, a persistent browser-native multiplayer life simulator with households, homes, jobs, cooking, NPCs, shared history, and voice foundations.
 - Built **[SlopeSense](https://github.com/h55n/slopesense)**, a landslide-risk intelligence platform combining satellite + weather data into a probabilistic alerting system.
 - Built **[Small Merchant](https://github.com/h55n/small-merchant)**, a safety-gated agentic commerce system where payment authorization stays under deterministic backend control.
 - Built **[Mike](https://github.com/h55n/mike)**, a low-latency voice dictation tool for Windows using Whisper + optional LLM cleanup.
 - Built **[Shooting OS](https://github.com/h55n/shooting-os)**, a focused operating system for content ideation, scripting, planning, shooting, and knowledge-grounded workflows.
-- **i-Hack, IIT Bombay - Finalist** | **iQOO Pune City Battle - Top 22 Finalist** | **FAR AWAY 2026 - Round 2 / final offline qualifier** | **Eureka! 2024 - Zonalist**
 
-## Builder programs & ecosystems
-
-<p align="center">
-  <sub>Selected programs and technical communities I have been part of.</sub>
-</p>
+## Selected recognition
 
 <table>
   <tr>
-    <td align="center" width="25%"><b>Nebius AI</b><br><sub>Builder Program</sub><br><br><a href="https://nebius.com/"><img src="https://img.shields.io/badge/member-111820?style=for-the-badge" /></a></td>
-    <td align="center" width="25%"><b>OpenAI</b><br><sub>Codex Build House</sub><br><br><a href="https://openai.com/"><img src="https://img.shields.io/badge/selected-111820?style=for-the-badge&logo=openai&logoColor=white" /></a></td>
-    <td align="center" width="25%"><b>Google Cloud</b><br><sub>Gen AI Academy APAC</sub><br><br><a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/cohort_1-111820?style=for-the-badge&logo=googlecloud" /></a></td>
-    <td align="center" width="25%"><b>Devpost</b><br><sub>OpenAI Build Week</sub><br><br><a href="https://devpost.com/"><img src="https://img.shields.io/badge/submitted-111820?style=for-the-badge&logo=devpost&logoColor=white" /></a></td>
+    <td align="center" width="33%"><b>Monad Blitz Pune V2</b><br><sub>MNEME</sub><br><br><b>WINNER</b></td>
+    <td align="center" width="33%"><b>i-Hack · IIT Bombay</b><br><sub>E-Summit '25</sub><br><br><b>FINALIST</b></td>
+    <td align="center" width="33%"><b>iQOO Pune City Battle</b><br><sub>Lumi</sub><br><br><b>TOP 22 FINALIST</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><b>FAR AWAY 2026</b><br><sub>Team FarFromHome</sub><br><br><b>ROUND 2 / FINAL OFFLINE</b></td>
+    <td align="center" width="33%"><b>IEEE CodeBhoomi</b><br><sub>Tech for Good</sub><br><br><b>FINALIST</b></td>
+    <td align="center" width="33%"><b>Eureka! · IIT Bombay</b><br><sub>2024</sub><br><br><b>ZONALIST</b></td>
   </tr>
 </table>
-
-<p align="center">
-  <sub>Also active around builder communities including MetaMask Community Builder, Road to Devcon, Claude Code Pune, Agent Builders, and other Pune developer/AI meetups.</sub>
-</p>
 
 ## The stack I reach for
 
