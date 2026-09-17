@@ -22,16 +22,16 @@ I build across **AI systems, applied ML, product engineering, and creative inter
 
 ## Selected recognition
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="33%"><b>Monad Blitz Pune V2</b><br><sub>MNEME</sub><br><br><b>WINNER</b></td>
-    <td align="center" width="33%"><b>i-Hack · IIT Bombay</b><br><sub>E-Summit '25</sub><br><br><b>FINALIST</b></td>
-    <td align="center" width="33%"><b>iQOO Pune City Battle</b><br><sub>Lumi</sub><br><br><b>TOP 22 FINALIST</b></td>
+    <td align="center" width="170"><sub><b>Monad Blitz Pune V2</b></sub><br><sub>MNEME</sub><br><sub><b>WINNER</b></sub></td>
+    <td align="center" width="170"><sub><b>i-Hack · IIT Bombay</b></sub><br><sub>E-Summit '25</sub><br><sub><b>FINALIST</b></sub></td>
+    <td align="center" width="170"><sub><b>iQOO Pune City Battle</b></sub><br><sub>Lumi</sub><br><sub><b>TOP 22 FINALIST</b></sub></td>
   </tr>
   <tr>
-    <td align="center" width="33%"><b>FAR AWAY 2026</b><br><sub>Team FarFromHome</sub><br><br><b>ROUND 2 / FINAL OFFLINE</b></td>
-    <td align="center" width="33%"><b>IEEE CodeBhoomi</b><br><sub>Tech for Good</sub><br><br><b>FINALIST</b></td>
-    <td align="center" width="33%"><b>Eureka! · IIT Bombay</b><br><sub>2024</sub><br><br><b>ZONALIST</b></td>
+    <td align="center" width="170"><sub><b>FAR AWAY 2026</b></sub><br><sub>Team FarFromHome</sub><br><sub><b>ROUND 2 / FINAL OFFLINE</b></sub></td>
+    <td align="center" width="170"><sub><b>IEEE CodeBhoomi</b></sub><br><sub>Tech for Good</sub><br><sub><b>FINALIST</b></sub></td>
+    <td align="center" width="170"><sub><b>Eureka! · IIT Bombay</b></sub><br><sub>2024</sub><br><sub><b>ZONALIST</b></sub></td>
   </tr>
 </table>
 
