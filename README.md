@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://h55n.vercel.app"><img src="https://img.shields.io/badge/portfolio-0d1117?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://hssn.me"><img src="https://img.shields.io/badge/portfolio-0d1117?style=flat-square&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/hassan-rehman-h55n"><img src="https://img.shields.io/badge/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=4EA1FF" /></a>
   <a href="mailto:hassan0rehman@gmail.com"><img src="https://img.shields.io/badge/email-0d1117?style=flat-square&logo=gmail&logoColor=EA6B63" /></a>
   <a href="https://github.com/h55n"><img src="https://img.shields.io/badge/github-h55n-0d1117?style=flat-square&logo=github&logoColor=white" /></a>
