@@ -56,6 +56,10 @@ I like taking ideas that feel slightly too ambitious and making them real enough
 - **[1ph](https://github.com/h55n/1ph)** — hackathon discovery and enrichment pipeline combining Next.js, Python automation, structured extraction, and AI-assisted normalization.
 - **[EvrythingAI](https://github.com/h55n/EvrythingAI)** — automated AI/tech newsletter pipeline using RSS ingestion, Mistral-based curation/synthesis, GitHub Actions, and serverless delivery.
 
+## Open Source Contributions
+
+[![Contributor](https://img.shields.io/badge/5%20PRs%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://github.com/search?q=org:kestra-io+author:h55n+is:pr+is:merged&type=pullrequests)
+
 ## Selected recognition
 
 <table align="center">
